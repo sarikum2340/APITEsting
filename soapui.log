@@ -1,0 +1,45 @@
+2020-10-08 22:36:44,852 WARN  [SoapUI] Missing folder [C:\Users\SaritaKumari\ApiTesting_Maven\ApiTesting1\ext] for external libraries
+2020-10-08 22:36:45,095 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\SaritaKumari\soapui-settings.xml]
+2020-10-08 22:36:46,234 INFO  [WsdlProject] Loaded project from [file:/C:/Users/SaritaKumari/ApiTesting_Maven/ApiTesting1/APITesting-soapui-project.xml]
+2020-10-08 22:36:46,730 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [APITesting]
+2020-10-08 22:36:46,733 INFO  [SoapUITestCaseRunner] Running Project [APITesting], runType = SEQUENTIAL
+2020-10-08 22:36:46,754 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [Database]
+2020-10-08 22:36:46,782 INFO  [SoapUITestCaseRunner] running step [Jdbc connection]
+2020-10-08 22:36:47,089 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2020-10-08 22:36:47,704 INFO  [log] Number of records ind DB : 6
+2020-10-08 22:36:48,025 INFO  [log] Sarita
+2020-10-08 22:36:48,027 INFO  [log] Welcome12
+2020-10-08 22:36:48,074 INFO  [log] prabhat
+2020-10-08 22:36:48,074 INFO  [log] Welcome12
+2020-10-08 22:36:48,085 INFO  [log] Rudra
+2020-10-08 22:36:48,086 INFO  [log] Welcome12
+2020-10-08 22:36:48,090 INFO  [log] Pratap
+2020-10-08 22:36:48,091 INFO  [log] Welcome23
+2020-10-08 22:36:48,095 INFO  [log] Ibm
+2020-10-08 22:36:48,097 INFO  [log] Welcome23
+2020-10-08 22:36:48,106 INFO  [log] Divya
+2020-10-08 22:36:48,107 INFO  [log] Welcome23
+2020-10-08 22:36:48,109 INFO  [SoapUITestCaseRunner] running step [Username pasword]
+2020-10-08 22:36:48,127 INFO  [SoapUITestCaseRunner] running step [Call login service]
+2020-10-08 22:36:48,533 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xop.xsd with targetNamespace http://www.w3.org/2004/08/xop/include
+2020-10-08 22:36:48,568 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/XMLSchema.xsd with targetNamespace http://www.w3.org/2001/XMLSchema
+2020-10-08 22:36:48,573 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xml.xsd with targetNamespace http://www.w3.org/XML/1998/namespace
+2020-10-08 22:36:48,582 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/swaref.xsd with targetNamespace http://ws-i.org/profiles/basic/1.1/xsd
+2020-10-08 22:36:48,590 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200505.xsd with targetNamespace http://www.w3.org/2005/05/xmlmime
+2020-10-08 22:36:48,595 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/xmime200411.xsd with targetNamespace http://www.w3.org/2004/11/xmlmime
+2020-10-08 22:36:48,604 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope.xsd with targetNamespace http://schemas.xmlsoap.org/soap/envelope/
+2020-10-08 22:36:48,611 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding.xsd with targetNamespace http://schemas.xmlsoap.org/soap/encoding/
+2020-10-08 22:36:48,624 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEnvelope12.xsd with targetNamespace http://www.w3.org/2003/05/soap-envelope
+2020-10-08 22:36:48,634 INFO  [SchemaUtils] Added default schema from file:/C:/Users/SaritaKumari/.m2/repository/com/smartbear/soapui/soapui/5.0.0/soapui-5.0.0.jar!/com/eviware/soapui/resources/xsds/soapEncoding12.xsd with targetNamespace http://www.w3.org/2003/05/soap-encoding
+2020-10-08 22:36:48,636 INFO  [SchemaUtils] Loading schema types from [file:\C:\Users\SaritaKumari\Resources\ShoppingService.wsdl]
+2020-10-08 22:36:48,636 INFO  [SchemaUtils] Getting schema file:\C:\Users\SaritaKumari\Resources\ShoppingService.wsdl
+2020-10-08 22:36:48,649 INFO  [SchemaUtils] Getting schema file:\C:\Users\SaritaKumari\Resources\ShoppingService.xsd
+2020-10-08 22:36:48,866 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 22:36:48,868 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 22:36:48,869 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 22:36:48,870 INFO  [SoapUITestCaseRunner] running step [Call logout service]
+2020-10-08 22:36:48,928 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2020-10-08 22:36:48,934 INFO  [SoapUITestCaseRunner] Assertion [Schema Compliance] has status VALID
+2020-10-08 22:36:48,935 INFO  [SoapUITestCaseRunner] Assertion [Not SOAP Fault] has status VALID
+2020-10-08 22:36:48,936 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [Database], time taken: 2123ms, status: FINISHED
+2020-10-08 22:36:48,942 INFO  [SoapUITestCaseRunner] Project [APITesting] finished with status [FINISHED] in 2202ms

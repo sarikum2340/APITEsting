@@ -1,0 +1,10 @@
+Status: FAILED
+Time Taken: 985
+Size: 0
+Timestamp: Thu Oct 08 22:17:29 IST 2020
+TestStep: Groovy Script
+Error:java.lang.NullPointerException: Cannot get property 'testCases' on null object
+
+----------------- Messages ------------------------------
+java.lang.NullPointerException: Cannot get property 'testCases' on null object
+error at line: 36
